@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Manifest to run Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkpeel/liri-node-app.git"
+  },
+  "keywords": [
+    "LIRI"
+  ],
+  "author": "Geoff Peel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkpeel/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/gkpeel/liri-node-app#readme"
+}
