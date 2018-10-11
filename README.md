@@ -31,5 +31,5 @@ If you want to run multiple commands at once, run the `do-what-it-says` command.
 
 This command will run the commands in the `random.txt` file:
 
-To update this file, format the commands like this: _"command **,** query"_, with each command going on it's own line.
+To update this file, format the commands like this: _"command,query"_, with each command going on it's own line.
 
