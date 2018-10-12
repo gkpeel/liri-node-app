@@ -24,7 +24,7 @@
     * `movie-this` - searches only movie titles
     * `concert-this` - searches only artists/bands
 
-![Basic Screenshot](./liri_screenshot1.png)
+![Basic Screenshot](./liri_screenshot2.png)
 
 If you want to see a log of your searches, check the `log.txt` file.
 
@@ -35,6 +35,6 @@ This command will run the commands in the `random.txt` file:
 
 To update this file, format the commands like this: _"command,query"_, with each command going on it's own line.
 
-![do-what-it-says example](./liri_screenshot2.png)
+![do-what-it-says example](./liri_screenshot1.png)
 
 
