@@ -15,8 +15,6 @@ var queryParameter = input.slice(3, input.length);
 // Functions
 concertThis = function(userInput) {
 
-    console.log(userInput);
-
     if (typeof userInput !== 'string') {
         userQuery = userInput.join('%20');
     } else {
@@ -96,7 +94,6 @@ spotifySong = function(userInput) {
 
 movieThis = function(userInput) {
 
-    console.log(userInput);
     // OMDb Variables
     var mrNobody = "Mr.+Nobody";
     var buildQuery = 'http://www.omdbapi.com/?apikey=trilogy&t="';
